@@ -28,6 +28,7 @@ function App() {
             path="/home"
             element={<Home />}
           />
+          
            <Route 
             path="/ski"
             element={<Skis />}
